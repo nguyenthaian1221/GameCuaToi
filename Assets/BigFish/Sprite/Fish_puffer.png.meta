@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: 0cd5eee9954f1bc4db043f7f72653548
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Fish_body_puffer
+  - first:
+      213: 21300002
+    second: Fish_tail_puffer
+  - first:
+      213: 21300004
+    second: Fish_oar_puffer
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 420
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fish_body_puffer
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 117
+        width: 287
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -143.5, y: -130}
+        - {x: -143.5, y: 130}
+        - {x: 143.5, y: 130}
+        - {x: 143.5, y: -130}
+      physicsShape:
+      - - {x: 102.5, y: -82}
+        - {x: 109.5, y: -79.99999}
+        - {x: 121.49999, y: -70}
+        - {x: 121.49999, y: -56}
+        - {x: 119.49999, y: -45.999996}
+        - {x: 130.5, y: -41}
+        - {x: 142.5, y: -33}
+        - {x: 143.5, y: -26.999998}
+        - {x: 143.5, y: -8}
+        - {x: 136.5, y: 1}
+        - {x: 127.5, y: 6}
+        - {x: 125.5, y: 28}
+        - {x: 117.49999, y: 51}
+        - {x: 108.49999, y: 70}
+        - {x: 86.5, y: 94}
+        - {x: 76.5, y: 101}
+        - {x: 48.5, y: 113}
+        - {x: 26.499998, y: 116.99999}
+        - {x: -14.5, y: 117.99999}
+        - {x: -44.5, y: 110}
+        - {x: -60.499996, y: 100}
+        - {x: -69.5, y: 110}
+        - {x: -87.5, y: 118.99999}
+        - {x: -114.5, y: 118.99999}
+        - {x: -133.49998, y: 104}
+        - {x: -138.5, y: 90}
+        - {x: -138.5, y: 68}
+        - {x: -124.5, y: 48.999996}
+        - {x: -119.49999, y: 48}
+        - {x: -109.5, y: 42}
+        - {x: -115.5, y: 28}
+        - {x: -120.49999, y: 8}
+        - {x: -121.49999, y: -9.999999}
+        - {x: -118.49999, y: -22}
+        - {x: -116.5, y: -33}
+        - {x: -100.5, y: -68}
+        - {x: -89.5, y: -82}
+        - {x: -72.5, y: -97.99999}
+        - {x: -65.5, y: -104}
+        - {x: -57.5, y: -109}
+        - {x: -42.5, y: -116.99999}
+        - {x: -25.5, y: -122}
+        - {x: -12.5, y: -124}
+        - {x: 19.5, y: -124}
+        - {x: 33.499996, y: -122}
+        - {x: 59.499996, y: -116}
+        - {x: 85.49999, y: -102}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93458fe0c044f53aff32f743e62528e
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 260}
+      - {x: 287, y: 260}
+      - {x: 0, y: 0}
+      - {x: 287, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish_tail_puffer
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 291
+        width: 108
+        height: 114
+      alignment: 9
+      pivot: {x: 0.6360679, y: 0.30284947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -57}
+        - {x: -54, y: 57}
+        - {x: 54, y: 57}
+        - {x: 54, y: -57}
+      physicsShape:
+      - - {x: 49, y: -11}
+        - {x: 49, y: 6}
+        - {x: 35, y: 24}
+        - {x: -11, y: 47}
+        - {x: -22.999996, y: 48.999992}
+        - {x: -42, y: 48.999992}
+        - {x: -49, y: 44}
+        - {x: -50, y: 35.999996}
+        - {x: -50, y: 14}
+        - {x: -48, y: 2}
+        - {x: -38.999996, y: -30}
+        - {x: -33, y: -44}
+        - {x: -19.999996, y: -52}
+        - {x: -7, y: -52}
+        - {x: 12, y: -44}
+        - {x: 33, y: -30}
+        - {x: 46, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf58bc70ea7c4a828f045bbca230079e
+      internalID: 21300002
+      vertices:
+      - {x: -14.695335, y: 136.47516}
+      - {x: 93.304665, y: 136.47516}
+      - {x: -14.695335, y: 22.475159}
+      - {x: 93.304665, y: 22.475159}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish_oar_puffer
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 14
+        width: 168
+        height: 58
+      alignment: 9
+      pivot: {x: 0.41252768, y: 1.1706798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: -29}
+        - {x: -84, y: 29}
+        - {x: 84, y: 29}
+        - {x: 84, y: -29}
+      physicsShape:
+      - - {x: -23, y: 27}
+        - {x: -49, y: 27}
+        - {x: -62, y: 26}
+        - {x: -76, y: 12}
+        - {x: -77, y: 10.000002}
+        - {x: -77, y: -2}
+        - {x: -76, y: -8}
+        - {x: -58, y: -20.999996}
+        - {x: -35, y: -26}
+        - {x: -9, y: -26}
+        - {x: -1, y: -17}
+        - {x: -1, y: 1}
+        - {x: -19, y: 26}
+      - - {x: 78, y: 8}
+        - {x: 55.999992, y: 22}
+        - {x: 20, y: 22}
+        - {x: 7, y: -5}
+        - {x: 7, y: -20.999996}
+        - {x: 12, y: -26}
+        - {x: 52, y: -26}
+        - {x: 61.999992, y: -22}
+        - {x: 76, y: -13.999996}
+        - {x: 78, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80acfbde1ff549969e53f3b69e73caa6
+      internalID: 21300004
+      vertices:
+      - {x: 14.695351, y: 19.10057}
+      - {x: 182.69534, y: 19.10057}
+      - {x: 14.695351, y: -38.89943}
+      - {x: 182.69534, y: -38.89943}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fish_tail_puffer: 21300002
+      Fish_oar_puffer: 21300004
+      Fish_body_puffer: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

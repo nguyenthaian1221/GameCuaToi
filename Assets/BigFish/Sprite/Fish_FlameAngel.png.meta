@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: ceaf4a95b95241f4dbafb8a85c935d7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Fish_body_FlameAngel
+  - first:
+      213: 21300002
+    second: Fish_oan_FlameAngel
+  - first:
+      213: 21300004
+    second: Fish_tail_FlameAngel
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 420
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fish_body_FlameAngel
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 98
+        width: 293
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.5, y: -136.5}
+        - {x: -146.5, y: 136.5}
+        - {x: 146.5, y: 136.5}
+        - {x: 146.5, y: -136.5}
+      physicsShape:
+      - - {x: 20.5, y: -122.5}
+        - {x: 47.5, y: -117.49999}
+        - {x: 65.5, y: -111.5}
+        - {x: 88.5, y: -98.49999}
+        - {x: 122.5, y: -64.5}
+        - {x: 127.5, y: -58.499996}
+        - {x: 132.5, y: -49.499996}
+        - {x: 132.5, y: -40.5}
+        - {x: 139.5, y: -33.499996}
+        - {x: 143.5, y: -25.5}
+        - {x: 143.5, y: -13.499999}
+        - {x: 139.5, y: 6.5}
+        - {x: 126.5, y: 37.5}
+        - {x: 113.5, y: 56.5}
+        - {x: 92.49999, y: 77.5}
+        - {x: 86.5, y: 82.5}
+        - {x: 76.5, y: 90.5}
+        - {x: 50.5, y: 103.5}
+        - {x: 11.499999, y: 124.5}
+        - {x: -9.5, y: 129.5}
+        - {x: -22.5, y: 132.5}
+        - {x: -69.5, y: 132.5}
+        - {x: -80.5, y: 130.5}
+        - {x: -106.49999, y: 124.5}
+        - {x: -122.5, y: 114.5}
+        - {x: -131.5, y: 106.49999}
+        - {x: -136.5, y: 93.5}
+        - {x: -136.5, y: 69.5}
+        - {x: -133.49998, y: 50.5}
+        - {x: -123.5, y: 28.5}
+        - {x: -120.49999, y: 12.5}
+        - {x: -120.49999, y: -20.5}
+        - {x: -118.49999, y: -32.5}
+        - {x: -116.5, y: -40.5}
+        - {x: -114.5, y: -46.5}
+        - {x: -126.5, y: -69.5}
+        - {x: -130.5, y: -87.5}
+        - {x: -128.5, y: -102.5}
+        - {x: -126.5, y: -109.5}
+        - {x: -123.5, y: -117.49999}
+        - {x: -107.49999, y: -128.5}
+        - {x: -93.5, y: -131.5}
+        - {x: -61.5, y: -131.5}
+        - {x: -49.499996, y: -128.5}
+        - {x: -32.5, y: -120.49999}
+        - {x: 0.5, y: -123.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17d2d51d46b4538817c9520663799aa
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 273}
+      - {x: 293, y: 273}
+      - {x: 0, y: 0}
+      - {x: 293, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish_oan_FlameAngel
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 109
+        height: 76
+      alignment: 9
+      pivot: {x: 0.13420436, y: 1.0692769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: -38}
+        - {x: -54.5, y: 38}
+        - {x: 54.5, y: 38}
+        - {x: 54.5, y: -38}
+      physicsShape:
+      - - {x: 45.5, y: 26.000002}
+        - {x: 44.5, y: 27}
+        - {x: 26.5, y: 27}
+        - {x: -23.5, y: 20}
+        - {x: -45.5, y: -6}
+        - {x: -47.5, y: -14}
+        - {x: -47.5, y: -24}
+        - {x: -42.5, y: -26}
+        - {x: -27.5, y: -27}
+        - {x: -11.5, y: -23}
+        - {x: 4.5, y: -14}
+        - {x: 0.4999962, y: -30}
+        - {x: 7.5, y: -34.999992}
+        - {x: 16.499996, y: -34.999992}
+        - {x: 33.5, y: -21}
+        - {x: 42.5, y: -4.999996}
+        - {x: 45.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a690e8bca644c1bb17d1f4b17a0426b
+      internalID: 21300002
+      vertices:
+      - {x: 39.871727, y: 32.734955}
+      - {x: 148.87173, y: 32.734955}
+      - {x: 39.871727, y: -43.265045}
+      - {x: 148.87173, y: -43.265045}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish_tail_FlameAngel
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 274
+        width: 102
+        height: 129
+      alignment: 9
+      pivot: {x: 0.70792484, y: 0.3816273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -64.5}
+        - {x: -51, y: 64.5}
+        - {x: 51, y: 64.5}
+        - {x: 51, y: -64.5}
+      physicsShape:
+      - - {x: 46, y: 8.5}
+        - {x: 43, y: 15.5}
+        - {x: 20, y: 37.499996}
+        - {x: -11, y: 58.499992}
+        - {x: -27, y: 58.499992}
+        - {x: -35, y: 53.5}
+        - {x: -37.999996, y: 41.5}
+        - {x: -41, y: 19.5}
+        - {x: -41, y: -24.5}
+        - {x: -32.999996, y: -48.499996}
+        - {x: -23, y: -54.5}
+        - {x: -12, y: -54.5}
+        - {x: 10.000001, y: -42.5}
+        - {x: 40, y: -13.5}
+        - {x: 46, y: -2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6f1d58c8ce466f8f43084739e87661
+      internalID: 21300004
+      vertices:
+      - {x: -21.208336, y: 144.27008}
+      - {x: 80.791664, y: 144.27008}
+      - {x: -21.208336, y: 15.270081}
+      - {x: 80.791664, y: 15.270081}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fish_tail_FlameAngel: 21300004
+      Fish_body_FlameAngel: 21300000
+      Fish_oan_FlameAngel: 21300002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

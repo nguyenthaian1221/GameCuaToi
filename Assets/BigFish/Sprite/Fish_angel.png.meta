@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: c932324dfa43e3b4a9da921fdbd708c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Fish_tail_angel
+  - first:
+      213: 21300002
+    second: Fish_body_angel
+  - first:
+      213: 21300004
+    second: Fish_oar_angel
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 420
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fish_tail_angel
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 98
+        height: 158
+      alignment: 9
+      pivot: {x: 0.97631943, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -79}
+        - {x: -49, y: 79}
+        - {x: 49, y: 79}
+        - {x: 49, y: -79}
+      physicsShape:
+      - - {x: 47, y: 14}
+        - {x: 42, y: 22.999998}
+        - {x: 36, y: 34}
+        - {x: 28, y: 44}
+        - {x: 7.000004, y: 65}
+        - {x: -8, y: 78}
+        - {x: -21, y: 78}
+        - {x: -25, y: 77}
+        - {x: -33, y: 69}
+        - {x: -43, y: 45.999996}
+        - {x: -46, y: 29}
+        - {x: -48.999992, y: 9.999999}
+        - {x: -48.999992, y: -14}
+        - {x: -47, y: -29}
+        - {x: -43, y: -53.999996}
+        - {x: -35.999992, y: -71}
+        - {x: -30, y: -76}
+        - {x: -12, y: -76}
+        - {x: 17.000002, y: -53.999996}
+        - {x: 34, y: -36}
+        - {x: 47, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abd2fa2e7f04ca099b14baaee185a42
+      internalID: 21300000
+      vertices:
+      - {x: -46.679306, y: 158}
+      - {x: 51.320694, y: 158}
+      - {x: -46.679306, y: 0}
+      - {x: 51.320694, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish_body_angel
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 107
+        width: 319
+        height: 303
+      alignment: 9
+      pivot: {x: 0.63820064, y: 0.49714726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -159.5, y: -151.5}
+        - {x: -159.5, y: 151.5}
+        - {x: 159.5, y: 151.5}
+        - {x: 159.5, y: -151.5}
+      physicsShape:
+      - - {x: 62.5, y: -151.49998}
+        - {x: 66.5, y: -150.5}
+        - {x: 80.5, y: -145.5}
+        - {x: 100.5, y: -135.5}
+        - {x: 109.5, y: -129.5}
+        - {x: 117.5, y: -122.49999}
+        - {x: 143.5, y: -96.5}
+        - {x: 149.5, y: -86.5}
+        - {x: 149.5, y: -76.5}
+        - {x: 158.5, y: -68.5}
+        - {x: 159.5, y: -66.5}
+        - {x: 159.5, y: -22.5}
+        - {x: 158.5, y: -13.5}
+        - {x: 154.5, y: -1.5}
+        - {x: 150.5, y: 11.499999}
+        - {x: 136.5, y: 36.5}
+        - {x: 131.5, y: 44.5}
+        - {x: 93.5, y: 79.5}
+        - {x: 83.5, y: 86.49999}
+        - {x: 70.5, y: 96.5}
+        - {x: 39.5, y: 110.5}
+        - {x: -0.5, y: 121.5}
+        - {x: -13.499996, y: 123.5}
+        - {x: -50.5, y: 126.49999}
+        - {x: -66.5, y: 127.5}
+        - {x: -122.5, y: 127.5}
+        - {x: -137.5, y: 125.49999}
+        - {x: -152.49998, y: 121.5}
+        - {x: -157.49998, y: 115.49999}
+        - {x: -157.49998, y: 110.5}
+        - {x: -156.49998, y: 105.5}
+        - {x: -145.5, y: 101.49999}
+        - {x: -125.5, y: 90.5}
+        - {x: -101.499985, y: 69.5}
+        - {x: -94.5, y: 51.5}
+        - {x: -89.5, y: 25.5}
+        - {x: -103.5, y: 8.5}
+        - {x: -120.5, y: -20.5}
+        - {x: -123.5, y: -27.5}
+        - {x: -120.5, y: -41.5}
+        - {x: -111.5, y: -58.499996}
+        - {x: -99.5, y: -77.5}
+        - {x: -94.5, y: -84.5}
+        - {x: -87.5, y: -99.5}
+        - {x: -122.5, y: -131.5}
+        - {x: -123.5, y: -141.5}
+        - {x: -107.5, y: -150.5}
+        - {x: -103.5, y: -151.49998}
+        - {x: -35.5, y: -151.49998}
+        - {x: -9.5, y: -148.5}
+        - {x: -0.5, y: -151.49998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1c9c76c43840c2853f96727fc9792d
+      internalID: 21300002
+      vertices:
+      - {x: -44.086, y: 303.86438}
+      - {x: 274.914, y: 303.86438}
+      - {x: -44.086, y: 0.8643799}
+      - {x: 274.914, y: 0.8643799}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish_oar_angel
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 102
+        height: 103
+      alignment: 9
+      pivot: {x: 0.23728041, y: 1.0790852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -51.5}
+        - {x: -51, y: 51.5}
+        - {x: 50.999996, y: 51.5}
+        - {x: 50.999996, y: -51.5}
+      physicsShape:
+      - - {x: 25, y: -35.5}
+        - {x: 40.999996, y: -3.5}
+        - {x: 50.999996, y: 21.5}
+        - {x: 50.999996, y: 43.5}
+        - {x: 46.999996, y: 50.5}
+        - {x: 30, y: 50.5}
+        - {x: 14, y: 43.5}
+        - {x: -9, y: 26.5}
+        - {x: -26, y: 22.5}
+        - {x: -33, y: 13.5}
+        - {x: -39, y: 5.5}
+        - {x: -46, y: -14.5}
+        - {x: -48, y: -30.5}
+        - {x: -48, y: -45.499992}
+        - {x: -45, y: -49.5}
+        - {x: -33, y: -49.5}
+        - {x: 2, y: -24.499992}
+        - {x: 2, y: -32.5}
+        - {x: 9, y: -43.499992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1d79fbd2634158a6abd8ac866d3625
+      internalID: 21300004
+      vertices:
+      - {x: 26.797398, y: 43.354218}
+      - {x: 128.7974, y: 43.354218}
+      - {x: 26.797398, y: -59.645782}
+      - {x: 128.7974, y: -59.645782}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fish_oar_angel: 21300004
+      Fish_tail_angel: 21300000
+      Fish_body_angel: 21300002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

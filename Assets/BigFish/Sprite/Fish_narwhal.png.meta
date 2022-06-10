@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: a640a3c5ae77d1e4b94051fcf7649185
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Fish_oan_narwhal
+  - first:
+      213: 21300002
+    second: Fish_body_narwhal
+  - first:
+      213: 21300004
+    second: Fish_tail_narwhal
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 420
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fish_oan_narwhal
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 8
+        width: 138
+        height: 84
+      alignment: 9
+      pivot: {x: 0.38329372, y: 0.8766168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -42}
+        - {x: -69, y: 42}
+        - {x: 69, y: 42}
+        - {x: 69, y: -42}
+      physicsShape:
+      - - {x: -3, y: 33}
+        - {x: -8, y: 42}
+        - {x: -35, y: 42}
+        - {x: -46, y: 35}
+        - {x: -65, y: 11}
+        - {x: -68, y: 7.000002}
+        - {x: -68, y: -37}
+        - {x: -64, y: -42}
+        - {x: -43, y: -42}
+        - {x: -25, y: -31.999996}
+        - {x: -1.000001, y: -2}
+        - {x: -1.000001, y: 25}
+      - - {x: 45.999996, y: 39}
+        - {x: 37, y: 42}
+        - {x: 24, y: 42}
+        - {x: 14, y: 36}
+        - {x: 13, y: 33}
+        - {x: 13, y: 6}
+        - {x: 17, y: -7}
+        - {x: 48, y: -25}
+        - {x: 63, y: -25}
+        - {x: 68, y: -22}
+        - {x: 68, y: 13}
+        - {x: 60, y: 27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0269ee0a5f4d43847170c41b468b1f
+      internalID: 21300000
+      vertices:
+      - {x: 16.105469, y: 52.36419}
+      - {x: 154.10547, y: 52.36419}
+      - {x: 16.105469, y: -31.63581}
+      - {x: 154.10547, y: -31.63581}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish_body_narwhal
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 88
+        width: 249
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124.5, y: -121}
+        - {x: -124.5, y: 121}
+        - {x: 124.5, y: 121}
+        - {x: 124.5, y: -121}
+      physicsShape:
+      - - {x: 89.5, y: -96}
+        - {x: 106.49999, y: -79}
+        - {x: 120.49999, y: -52}
+        - {x: 123.5, y: -41}
+        - {x: 124.5, y: -14.999999}
+        - {x: 119.49999, y: -9.999999}
+        - {x: 124.5, y: -4.9999995}
+        - {x: 124.5, y: 26}
+        - {x: 123.5, y: 35}
+        - {x: 121.49999, y: 44}
+        - {x: 112.5, y: 65}
+        - {x: 104.49999, y: 76}
+        - {x: 79.49999, y: 102}
+        - {x: 55.5, y: 115}
+        - {x: 29.499998, y: 120.99999}
+        - {x: -11.499999, y: 120.99999}
+        - {x: -26.499998, y: 118.99999}
+        - {x: -50.5, y: 111}
+        - {x: -63.5, y: 104.99999}
+        - {x: -80.5, y: 93}
+        - {x: -93.5, y: 79}
+        - {x: -105.49999, y: 62}
+        - {x: -117.49999, y: 38}
+        - {x: -123.5, y: 14.999999}
+        - {x: -123.5, y: -19.999998}
+        - {x: -119.49999, y: -29.999998}
+        - {x: -116.5, y: -29.999998}
+        - {x: -102.5, y: -62}
+        - {x: -100.5, y: -69}
+        - {x: -75.5, y: -93}
+        - {x: -71.5, y: -96}
+        - {x: -60.499996, y: -104}
+        - {x: -38.5, y: -115}
+        - {x: -12.5, y: -120.99999}
+        - {x: 24.499998, y: -120.99999}
+        - {x: 40.5, y: -118.99999}
+        - {x: 63.5, y: -112}
+        - {x: 79.49999, y: -103}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e980280d114413a433b666d7f45c4b
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 242}
+      - {x: 249, y: 242}
+      - {x: 0, y: 0}
+      - {x: 249, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish_tail_narwhal
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 306
+        width: 164
+        height: 104
+      alignment: 9
+      pivot: {x: 0.75718594, y: 0.38529176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.99999, y: -52}
+        - {x: -81.99999, y: 52.000004}
+        - {x: 82, y: 52.000004}
+        - {x: 82, y: -52}
+      physicsShape:
+      - - {x: 60, y: 14}
+        - {x: 40, y: 21}
+        - {x: 14, y: 18.999998}
+        - {x: 14, y: 37}
+        - {x: 4, y: 50.999996}
+        - {x: -9, y: 50.999996}
+        - {x: -15, y: 37.999996}
+        - {x: -42, y: 24}
+        - {x: -44.999992, y: 13}
+        - {x: -72.99999, y: 6}
+        - {x: -80, y: 0}
+        - {x: -80, y: -11}
+        - {x: -62, y: -23}
+        - {x: -48, y: -24}
+        - {x: -29, y: -23}
+        - {x: -3, y: -20}
+        - {x: 19, y: -35}
+        - {x: 36, y: -45}
+        - {x: 60, y: -50.999996}
+        - {x: 76, y: -50.999996}
+        - {x: 81, y: -47.999996}
+        - {x: 81, y: -19}
+        - {x: 75, y: -6.0000005}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c398d02b53848ceacd6c1ec9d39baa7
+      internalID: 21300004
+      vertices:
+      - {x: -42.17849, y: 115.92966}
+      - {x: 121.8215, y: 115.92966}
+      - {x: -42.17849, y: 11.929657}
+      - {x: 121.8215, y: 11.929657}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fish_oan_narwhal: 21300000
+      Fish_tail_narwhal: 21300004
+      Fish_body_narwhal: 21300002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

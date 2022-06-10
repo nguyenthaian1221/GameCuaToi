@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 110a9fbee1c91f44f93231ea163a99fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: buttonPLAY_01
+  - first:
+      213: 21300002
+    second: Video_icon
+  - first:
+      213: 21300004
+    second: unlockeffect
+  - first:
+      213: 21300006
+    second: PopupUnlockfish
+  - first:
+      213: 21300008
+    second: Slot_buttonunlock_03
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buttonPLAY_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 484
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -242, y: -72}
+        - {x: -242, y: 72}
+        - {x: 242, y: 72}
+        - {x: 242, y: -72}
+      physicsShape:
+      - - {x: -241.99998, y: 72}
+        - {x: -241.99998, y: -72}
+        - {x: 241.99998, y: -72}
+        - {x: 241.99998, y: 72}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ce815f1add41e1a3e8e7979afca6d8
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 144}
+      - {x: 484, y: 144}
+      - {x: 0, y: 0}
+      - {x: 484, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Video_icon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 62
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -28.5}
+        - {x: -31, y: 28.5}
+        - {x: 31, y: 28.5}
+        - {x: 31, y: -28.5}
+      physicsShape:
+      - - {x: -31, y: 28.5}
+        - {x: -31, y: -28.5}
+        - {x: 31, y: -28.5}
+        - {x: 31, y: 28.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538e5e2daf414a059d3151923a964dd2
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 57}
+      - {x: 62, y: 57}
+      - {x: 0, y: 0}
+      - {x: 62, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: unlockeffect
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 437
+        height: 438
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -218.5, y: -219}
+        - {x: -218.5, y: 219}
+        - {x: 218.5, y: 219}
+        - {x: 218.5, y: -219}
+      physicsShape:
+      - - {x: 31.5, y: -72}
+        - {x: 38.5, y: -84}
+        - {x: 54.5, y: -91}
+        - {x: 66.5, y: -79}
+        - {x: 68.5, y: -72.99999}
+        - {x: 66.5, y: -68}
+        - {x: 59.499996, y: -45.999996}
+        - {x: 67.5, y: -42}
+        - {x: 67.5, y: -29.999998}
+        - {x: 95.5, y: -28}
+        - {x: 101.5, y: -21}
+        - {x: 101.5, y: -6}
+        - {x: 100.5, y: -3}
+        - {x: 73.49999, y: 9.999999}
+        - {x: 76.5, y: 12}
+        - {x: 82.5, y: 19}
+        - {x: 81.5, y: 22}
+        - {x: 71.5, y: 32}
+        - {x: 85.49999, y: 42.999996}
+        - {x: 87.5, y: 55}
+        - {x: 78.5, y: 70}
+        - {x: 45.5, y: 64}
+        - {x: 40.5, y: 68}
+        - {x: 29.499998, y: 66.99999}
+        - {x: 27.5, y: 101}
+        - {x: 2.4999998, y: 101}
+        - {x: 0.5, y: 97}
+        - {x: -7.4999995, y: 72.99999}
+        - {x: -20.5, y: 81}
+        - {x: -45.5, y: 85}
+        - {x: -56.5, y: 88}
+        - {x: -69.5, y: 76}
+        - {x: -68.5, y: 65}
+        - {x: -59.499996, y: 48}
+        - {x: -68.5, y: 39}
+        - {x: -99.5, y: 25}
+        - {x: -102.5, y: 21}
+        - {x: -102.5, y: 4}
+        - {x: -96.5, y: -4.9999995}
+        - {x: -73.49999, y: -9}
+        - {x: -83.5, y: -21}
+        - {x: -82.5, y: -24}
+        - {x: -69.5, y: -29.999998}
+        - {x: -87.5, y: -44}
+        - {x: -89.5, y: -58.999996}
+        - {x: -78.5, y: -69}
+        - {x: -67.5, y: -69}
+        - {x: -49.499996, y: -58}
+        - {x: -41.5, y: -68}
+        - {x: -26.499998, y: -74}
+        - {x: -28.5, y: -85.99999}
+        - {x: -25.5, y: -101}
+        - {x: -20.5, y: -103}
+        - {x: -3.5, y: -103}
+        - {x: 12.5, y: -78}
+        - {x: 18.5, y: -84}
+        - {x: 22.5, y: -85.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc3ebfa3c65411fbad726cf78243c1f
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 438}
+      - {x: 437, y: 438}
+      - {x: 0, y: 0}
+      - {x: 437, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: PopupUnlockfish
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 808
+        height: 612
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -404, y: -306}
+        - {x: -404, y: 306}
+        - {x: 404, y: 306}
+        - {x: 404, y: -306}
+      physicsShape:
+      - - {x: -392.99997, y: 306}
+        - {x: -404, y: 292.99997}
+        - {x: -404, y: -291}
+        - {x: -398, y: -306}
+        - {x: 404, y: -306}
+        - {x: 404, y: 306}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e286a737a248a7955cf05007f83e4e
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 612}
+      - {x: 808, y: 612}
+      - {x: 0, y: 0}
+      - {x: 808, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Slot_buttonunlock_03
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 440
+        width: 324
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -162, y: -52}
+        - {x: -162, y: 52}
+        - {x: 162, y: 52}
+        - {x: 162, y: -52}
+      physicsShape:
+      - - {x: -162, y: 52}
+        - {x: -162, y: -52}
+        - {x: 162, y: -52}
+        - {x: 162, y: 52}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450d851fc5004e1ea1bb491ec1541063
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 104}
+      - {x: 324, y: 104}
+      - {x: 0, y: 0}
+      - {x: 324, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Video_icon: 21300002
+      unlockeffect: 21300004
+      buttonPLAY_01: 21300000
+      PopupUnlockfish: 21300006
+      Slot_buttonunlock_03: 21300008
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

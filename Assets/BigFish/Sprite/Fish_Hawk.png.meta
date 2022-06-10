@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: 5277cd528447754478ccbc083aa94251
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Fish_tail_Hawk
+  - first:
+      213: 21300002
+    second: Fish_body_Hawk
+  - first:
+      213: 21300004
+    second: Fish_oan_Hawk
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 420
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fish_tail_Hawk
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 124
+        height: 129
+      alignment: 9
+      pivot: {x: 0.84207, y: 0.49999952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -64.5}
+        - {x: -62, y: 64.5}
+        - {x: 62, y: 64.5}
+        - {x: 62, y: -64.5}
+      physicsShape:
+      - - {x: 61, y: -0.49999997}
+        - {x: 61, y: 10.5}
+        - {x: 35, y: 38.5}
+        - {x: 13.000002, y: 54.5}
+        - {x: 0, y: 60.5}
+        - {x: -18, y: 64.5}
+        - {x: -39, y: 64.5}
+        - {x: -44, y: 63.499996}
+        - {x: -53, y: 59.5}
+        - {x: -61, y: 52.499996}
+        - {x: -61, y: 21.499998}
+        - {x: -54.999992, y: 5.5}
+        - {x: -37, y: -16.5}
+        - {x: -15.999996, y: -26.5}
+        - {x: -16.999996, y: -34.5}
+        - {x: -16.999996, y: -47.499996}
+        - {x: -15, y: -55.499996}
+        - {x: -2.9999962, y: -64.5}
+        - {x: 21, y: -64.5}
+        - {x: 37, y: -56.5}
+        - {x: 48, y: -45.5}
+        - {x: 58, y: -21.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61e9fe792774911b72bd2334cc45046
+      internalID: 21300000
+      vertices:
+      - {x: -42.41668, y: 129.00006}
+      - {x: 81.58332, y: 129.00006}
+      - {x: -42.41668, y: 0.000061035156}
+      - {x: 81.58332, y: 0.000061035156}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish_body_Hawk
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 18
+        width: 293
+        height: 342
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.5, y: -171}
+        - {x: -146.5, y: 171}
+        - {x: 146.5, y: 171}
+        - {x: 146.5, y: -171}
+      physicsShape:
+      - - {x: 21.499998, y: -151}
+        - {x: 48.5, y: -143}
+        - {x: 77.5, y: -128}
+        - {x: 107.49999, y: -104.99999}
+        - {x: 118.49999, y: -91.99999}
+        - {x: 122.5, y: -84}
+        - {x: 128.5, y: -69}
+        - {x: 136.5, y: -65}
+        - {x: 146.49998, y: -52.999996}
+        - {x: 146.49998, y: -45}
+        - {x: 143.5, y: -39.999996}
+        - {x: 120.49999, y: -25}
+        - {x: 103.5, y: 22.999998}
+        - {x: 97.5, y: 37}
+        - {x: 71.5, y: 64}
+        - {x: 73.49999, y: 71}
+        - {x: 78.5, y: 83}
+        - {x: 81.5, y: 101}
+        - {x: 80.5, y: 133.99998}
+        - {x: 71.5, y: 149}
+        - {x: 66.5, y: 148}
+        - {x: 61.5, y: 145}
+        - {x: 62.5, y: 114}
+        - {x: 43.5, y: 117.99999}
+        - {x: 29.499998, y: 129}
+        - {x: 29.499998, y: 138}
+        - {x: 15.5, y: 167}
+        - {x: 5.5, y: 167}
+        - {x: 6.5, y: 135}
+        - {x: 2.4999998, y: 127}
+        - {x: -27.5, y: 130}
+        - {x: -50.5, y: 158}
+        - {x: -65.5, y: 162}
+        - {x: -69.5, y: 158.99998}
+        - {x: -62.5, y: 141}
+        - {x: -47.5, y: 116.99999}
+        - {x: -54.5, y: 106.99999}
+        - {x: -75.5, y: 100}
+        - {x: -88.5, y: 103}
+        - {x: -106.49999, y: 114}
+        - {x: -118.49999, y: 111}
+        - {x: -117.49999, y: 102}
+        - {x: -102.5, y: 85}
+        - {x: -104.49999, y: 72.99999}
+        - {x: -122.5, y: 65}
+        - {x: -142.5, y: 65}
+        - {x: -146.49998, y: 64}
+        - {x: -146.49998, y: 57}
+        - {x: -143.5, y: 51}
+        - {x: -112.5, y: 33}
+        - {x: -116.5, y: 29.999998}
+        - {x: -125.5, y: 17}
+        - {x: -138.5, y: -9}
+        - {x: -142.5, y: -29}
+        - {x: -141.5, y: -42}
+        - {x: -137.5, y: -63}
+        - {x: -129.5, y: -78}
+        - {x: -114.5, y: -102}
+        - {x: -95.5, y: -120.99999}
+        - {x: -88.5, y: -132}
+        - {x: -93.5, y: -143}
+        - {x: -92.49999, y: -154}
+        - {x: -82.5, y: -167}
+        - {x: -76.5, y: -169}
+        - {x: -56.5, y: -169}
+        - {x: -38.5, y: -155}
+        - {x: -37.5, y: -150}
+        - {x: -18.5, y: -151}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc533c0608744fba49bf3b88fd20ba6
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 342}
+      - {x: 293, y: 342}
+      - {x: 0, y: 0}
+      - {x: 293, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish_oan_Hawk
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 82
+        height: 87
+      alignment: 9
+      pivot: {x: -0.0069316598, y: 1.348334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -43.5}
+        - {x: -41, y: 43.5}
+        - {x: 41, y: 43.5}
+        - {x: 41, y: -43.5}
+      physicsShape:
+      - - {x: 35, y: -25.5}
+        - {x: 35, y: 2.5}
+        - {x: 23.999992, y: 32.5}
+        - {x: 20, y: 36.5}
+        - {x: -1, y: 36.5}
+        - {x: -13.000002, y: 33.5}
+        - {x: -23, y: 25.5}
+        - {x: -33, y: 11.500004}
+        - {x: -36, y: -5.5}
+        - {x: -36, y: -18.5}
+        - {x: -34, y: -28.5}
+        - {x: -27, y: -38.5}
+        - {x: -25, y: -39.5}
+        - {x: -14, y: -39.5}
+        - {x: -5, y: -28.5}
+        - {x: 19, y: -34.499992}
+        - {x: 27, y: -34.499992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a067b9e6c264f69813305f4d63066b8
+      internalID: 21300004
+      vertices:
+      - {x: 41.568398, y: 13.194944}
+      - {x: 123.5684, y: 13.194944}
+      - {x: 41.568398, y: -73.80505}
+      - {x: 123.5684, y: -73.80505}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fish_body_Hawk: 21300002
+      Fish_tail_Hawk: 21300000
+      Fish_oan_Hawk: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

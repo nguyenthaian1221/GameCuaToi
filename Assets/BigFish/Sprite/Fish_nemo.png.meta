@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: 80dfc83b12fe77d48b085073b5ff6be1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Fish_oan_nemo
+  - first:
+      213: 21300002
+    second: Fish_tail_nemo
+  - first:
+      213: 21300004
+    second: Fish_body_nemo
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 420
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fish_oan_nemo
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 9
+        width: 94
+        height: 84
+      alignment: 9
+      pivot: {x: 0.29740483, y: 0.9602184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: -42}
+        - {x: -47, y: 42}
+        - {x: 47, y: 42}
+        - {x: 47, y: -42}
+      physicsShape:
+      - - {x: 45, y: -24.999996}
+        - {x: 47, y: -17}
+        - {x: 47, y: 5}
+        - {x: 41.999992, y: 19}
+        - {x: 23.999998, y: 25}
+        - {x: -19.000002, y: 25}
+        - {x: -40, y: 11.000002}
+        - {x: -46, y: -1.9999962}
+        - {x: -46, y: -23.999996}
+        - {x: -45, y: -29}
+        - {x: -29.000002, y: -42}
+        - {x: -10.000002, y: -42}
+        - {x: -0.0000019073486, y: -36}
+        - {x: 15.999998, y: -35}
+        - {x: 37, y: -31.999992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2397c730a7764d4c8132cfa2a4156e62
+      internalID: 21300000
+      vertices:
+      - {x: 19.043947, y: 45.341652}
+      - {x: 113.043945, y: 45.341652}
+      - {x: 19.043947, y: -38.658348}
+      - {x: 113.043945, y: -38.658348}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish_tail_nemo
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 81
+        height: 110
+      alignment: 9
+      pivot: {x: 0.85543317, y: 0.3848752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: -55}
+        - {x: -40.5, y: 55}
+        - {x: 40.5, y: 55}
+        - {x: 40.5, y: -55}
+      physicsShape:
+      - - {x: 40.5, y: 6}
+        - {x: 39.5, y: 9}
+        - {x: 25.5, y: 31}
+        - {x: 10.5, y: 46}
+        - {x: -6.5, y: 55}
+        - {x: -28.5, y: 55}
+        - {x: -39.5, y: 41.999996}
+        - {x: -39.5, y: 17.999998}
+        - {x: -38.5, y: 12}
+        - {x: -28.5, y: -4}
+        - {x: -21.5, y: -12}
+        - {x: -30.499996, y: -26}
+        - {x: -26.5, y: -47.999996}
+        - {x: -17.5, y: -55}
+        - {x: 7.5, y: -55}
+        - {x: 16.5, y: -50.999996}
+        - {x: 36.5, y: -25}
+        - {x: 40.5, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caeb68216184c5d9e01685cbcbead1a
+      internalID: 21300002
+      vertices:
+      - {x: -28.790085, y: 122.66373}
+      - {x: 52.209915, y: 122.66373}
+      - {x: -28.790085, y: 12.663727}
+      - {x: 52.209915, y: 12.663727}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish_body_nemo
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 64
+        width: 268
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134, y: -132.5}
+        - {x: -134, y: 132.5}
+        - {x: 134, y: 132.5}
+        - {x: 134, y: -132.5}
+      physicsShape:
+      - - {x: 88, y: -105.49999}
+        - {x: 103, y: -91.5}
+        - {x: 107.99999, y: -80.5}
+        - {x: 110, y: -64.5}
+        - {x: 118.99999, y: -61.5}
+        - {x: 126, y: -54.5}
+        - {x: 133, y: -39.5}
+        - {x: 133.99998, y: -33.499996}
+        - {x: 133.99998, y: 1.5}
+        - {x: 128, y: 25.5}
+        - {x: 119.99999, y: 43.5}
+        - {x: 107.99999, y: 61.5}
+        - {x: 90, y: 78.5}
+        - {x: 72, y: 90.5}
+        - {x: 63, y: 94.5}
+        - {x: 48, y: 101.5}
+        - {x: 35, y: 104.49999}
+        - {x: 16, y: 125.5}
+        - {x: 4, y: 131.5}
+        - {x: -4.9999995, y: 132.5}
+        - {x: -31, y: 132.5}
+        - {x: -35, y: 131.5}
+        - {x: -47, y: 115.5}
+        - {x: -42.999996, y: 97.5}
+        - {x: -56, y: 92.49999}
+        - {x: -62, y: 95.5}
+        - {x: -85.99999, y: 95.5}
+        - {x: -97.99999, y: 84.5}
+        - {x: -101, y: 77.5}
+        - {x: -100, y: 65.5}
+        - {x: -96, y: 60.499996}
+        - {x: -109, y: 46.5}
+        - {x: -125, y: 17.5}
+        - {x: -133.99998, y: -11.499999}
+        - {x: -133.99998, y: -25.5}
+        - {x: -128, y: -43.5}
+        - {x: -118.99999, y: -61.5}
+        - {x: -118.99999, y: -74.5}
+        - {x: -116, y: -81.5}
+        - {x: -111, y: -87.5}
+        - {x: -96, y: -94.5}
+        - {x: -83, y: -106.49999}
+        - {x: -70, y: -114.5}
+        - {x: -50, y: -125.5}
+        - {x: -44, y: -127.5}
+        - {x: -19.999998, y: -132.5}
+        - {x: 29.999998, y: -132.5}
+        - {x: 42.999996, y: -129.5}
+        - {x: 69, y: -118.49999}
+        - {x: 84, y: -109.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79739c0ee0b4b80933ba74522db08bc
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 265}
+      - {x: 268, y: 265}
+      - {x: 0, y: 0}
+      - {x: 268, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fish_tail_nemo: 21300002
+      Fish_body_nemo: 21300004
+      Fish_oan_nemo: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

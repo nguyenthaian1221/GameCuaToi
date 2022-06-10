@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: c5a2fb7a5b678af408de7ac384da4899
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: noAdlarge
+  - first:
+      213: 21300002
+    second: homebutton
+  - first:
+      213: 21300004
+    second: lock
+  - first:
+      213: 21300006
+    second: Slot_buttonunlock_01
+  - first:
+      213: 21300008
+    second: Video_icon
+  - first:
+      213: 21300010
+    second: unlockslot
+  - first:
+      213: 21300012
+    second: Iconfishdie
+  - first:
+      213: 21300014
+    second: IconChest
+  - first:
+      213: 21300016
+    second: Slot_buttonchose
+  - first:
+      213: 21300018
+    second: Slot_board
+  - first:
+      213: 21300020
+    second: Slot_buttonunlock_02a
+  - first:
+      213: 21300022
+    second: TimerIcon
+  - first:
+      213: 21300024
+    second: border_chosen
+  - first:
+      213: 21300026
+    second: slot
+  - first:
+      213: 21300028
+    second: Slot_buttonunlock_02
+  - first:
+      213: 21300030
+    second: Slot_buttonchoice
+  - first:
+      213: 21300032
+    second: Slot_buttonunlock_03
+  - first:
+      213: 21300034
+    second: tickicon
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: noAdlarge
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 0
+        width: 236
+        height: 248
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -117.99999, y: -124}
+        - {x: -117.99999, y: 124}
+        - {x: 117.99999, y: 124}
+        - {x: 117.99999, y: -124}
+      physicsShape:
+      - - {x: 79, y: -96}
+        - {x: 95, y: -79}
+        - {x: 103, y: -66.99999}
+        - {x: 113, y: -48}
+        - {x: 117.99999, y: -31}
+        - {x: 117.99999, y: 25}
+        - {x: 116.99999, y: 31}
+        - {x: 111, y: 50}
+        - {x: 103, y: 66.99999}
+        - {x: 95, y: 79}
+        - {x: 79, y: 96}
+        - {x: 63, y: 107.99999}
+        - {x: 48.999996, y: 115}
+        - {x: 29.999998, y: 123}
+        - {x: 22, y: 124}
+        - {x: -19, y: 124}
+        - {x: -25, y: 123}
+        - {x: -42.999996, y: 117.99999}
+        - {x: -58, y: 111}
+        - {x: -77, y: 97.99999}
+        - {x: -97, y: 78}
+        - {x: -104.99999, y: 64}
+        - {x: -112, y: 48}
+        - {x: -116, y: 35}
+        - {x: -117.99999, y: 25}
+        - {x: -117.99999, y: -26}
+        - {x: -116, y: -39.999996}
+        - {x: -110, y: -56}
+        - {x: -100, y: -72}
+        - {x: -91, y: -84}
+        - {x: -72, y: -103}
+        - {x: -63, y: -107.99999}
+        - {x: -47, y: -116}
+        - {x: -29.999998, y: -123}
+        - {x: -19.999998, y: -124}
+        - {x: 19, y: -124}
+        - {x: 29, y: -122}
+        - {x: 50, y: -116}
+        - {x: 69, y: -104}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d656437d68e48a0aae5bac6936e2c00
+      internalID: 21300000
+      vertices:
+      - {x: 0.0000076293945, y: 248}
+      - {x: 236, y: 248}
+      - {x: 0.0000076293945, y: 0}
+      - {x: 236, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: homebutton
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 0
+        width: 328
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -164, y: -38}
+        - {x: -164, y: 38}
+        - {x: 164, y: 38}
+        - {x: 164, y: -38}
+      physicsShape:
+      - - {x: -164, y: 38}
+        - {x: -164, y: -38}
+        - {x: 164, y: -38}
+        - {x: 164, y: 38}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52cb273bf85486eb469215b384c25cb
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 76}
+      - {x: 328, y: 76}
+      - {x: 0, y: 0}
+      - {x: 328, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: lock
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 78
+        width: 63
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -39}
+        - {x: -31.5, y: 39}
+        - {x: 31.5, y: 39}
+        - {x: 31.5, y: -39}
+      physicsShape:
+      - - {x: -22.5, y: 39}
+        - {x: -31.5, y: 24}
+        - {x: -31.5, y: -35}
+        - {x: -26.499998, y: -39}
+        - {x: 27.5, y: -39}
+        - {x: 31.5, y: -33}
+        - {x: 31.5, y: 33}
+        - {x: 17.5, y: 39}
+      - - {x: -9.5, y: 14}
+        - {x: -5.5, y: 19.999998}
+        - {x: -1.5, y: 21}
+        - {x: -0.5, y: 22}
+        - {x: 2.4999998, y: 22}
+        - {x: 7.4999995, y: 19}
+        - {x: 9.5, y: 17}
+        - {x: 10.5, y: 12}
+        - {x: -9.5, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0adfc834cd84f93908b6234eefce7a9
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 78}
+      - {x: 63, y: 78}
+      - {x: 0, y: 0}
+      - {x: 63, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Slot_buttonunlock_01
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 0
+        width: 324
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -162, y: -52}
+        - {x: -162, y: 52}
+        - {x: 162, y: 52}
+        - {x: 162, y: -52}
+      physicsShape:
+      - - {x: -162, y: 52}
+        - {x: -162, y: -52}
+        - {x: 162, y: -52}
+        - {x: 162, y: 52}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9e8b53879c4253801085d86d0673ba
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 104}
+      - {x: 324, y: 104}
+      - {x: 0, y: 0}
+      - {x: 324, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Video_icon
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 283
+        width: 62
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -28.5}
+        - {x: -31, y: 28.5}
+        - {x: 31, y: 28.5}
+        - {x: 31, y: -28.5}
+      physicsShape:
+      - - {x: -31, y: 28.5}
+        - {x: -31, y: -28.5}
+        - {x: 31, y: -28.5}
+        - {x: 31, y: 28.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60e124a0f014ebab93be2427e958ea8
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 57}
+      - {x: 62, y: 57}
+      - {x: 0, y: 0}
+      - {x: 62, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: unlockslot
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 246
+        height: 287
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: -143.5}
+        - {x: -123, y: -143.5}
+        - {x: -123, y: 143.5}
+        - {x: 123, y: 143.5}
+      physicsShape:
+      - - {x: -123, y: 143.5}
+        - {x: -123, y: -143.5}
+        - {x: 123, y: -143.5}
+        - {x: 123, y: 143.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c85357fafd940c9b53d097df711b8a3
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 287}
+      - {x: 246, y: 0}
+      - {x: 246, y: 287}
+      - {x: 0, y: 0}
+      indices: 030000000000000001000000020000000100000000000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Iconfishdie
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 212
+        width: 77
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: -34}
+        - {x: -38.5, y: 34}
+        - {x: 38.5, y: 34}
+        - {x: 38.5, y: -34}
+      physicsShape:
+      - - {x: 38.5, y: 19.999998}
+        - {x: 24.499998, y: 31}
+        - {x: 6.5, y: 34}
+        - {x: -29.499998, y: 34}
+        - {x: -21.499998, y: 19.999998}
+        - {x: -30.5, y: 6}
+        - {x: -38.5, y: 4}
+        - {x: -38.5, y: -7}
+        - {x: -34.5, y: -22.999998}
+        - {x: -25.5, y: -26}
+        - {x: -17.5, y: -32}
+        - {x: -13.499999, y: -34}
+        - {x: 18.5, y: -34}
+        - {x: 35.5, y: -11}
+        - {x: 38.5, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb0e335948a47e1925c6cfb29af14ba
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 68}
+      - {x: 77, y: 68}
+      - {x: 0, y: 0}
+      - {x: 77, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: IconChest
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 212
+        width: 87
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: -34.5}
+        - {x: -43.5, y: 34.5}
+        - {x: 43.5, y: 34.5}
+        - {x: 43.5, y: -34.5}
+      physicsShape:
+      - - {x: -37.5, y: 34.5}
+        - {x: -43.5, y: 24.499998}
+        - {x: -43.5, y: -34.5}
+        - {x: 43.5, y: -34.5}
+        - {x: 43.5, y: 33.499996}
+        - {x: 37.5, y: 34.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf0980998a0491289caf4e759362103
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 69}
+      - {x: 87, y: 69}
+      - {x: 0, y: 0}
+      - {x: 87, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Slot_buttonchose
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 250
+        width: 324
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -162, y: -52}
+        - {x: -162, y: 52}
+        - {x: 162, y: 52}
+        - {x: 162, y: -52}
+      physicsShape:
+      - - {x: -162, y: 52}
+        - {x: -162, y: -52}
+        - {x: 162, y: -52}
+        - {x: 162, y: 52}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad0e892eaf24635aa8f6df4366508e6
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 104}
+      - {x: 324, y: 104}
+      - {x: 0, y: 0}
+      - {x: 324, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Slot_board
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 400
+        width: 328
+        height: 383
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -164, y: -191.5}
+        - {x: -164, y: 191.5}
+        - {x: 164, y: 191.5}
+        - {x: 164, y: -191.5}
+      physicsShape:
+      - - {x: -164, y: 191.5}
+        - {x: -164, y: -191.5}
+        - {x: 164, y: -191.5}
+        - {x: 164, y: 191.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7953a1d27aee4166ad604ddceeb26ce3
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 383}
+      - {x: 328, y: 383}
+      - {x: 0, y: 0}
+      - {x: 328, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Slot_buttonunlock_02a
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 356
+        width: 324
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -162, y: -52}
+        - {x: -162, y: 52}
+        - {x: 162, y: 52}
+        - {x: 162, y: -52}
+      physicsShape:
+      - - {x: -162, y: 52}
+        - {x: -162, y: -52}
+        - {x: 162, y: -52}
+        - {x: 162, y: 52}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891924ec14264283a53d9caf2b100644
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 104}
+      - {x: 324, y: 104}
+      - {x: 0, y: 0}
+      - {x: 324, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: TimerIcon
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 212
+        width: 36
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -22}
+        - {x: -18, y: 22}
+        - {x: 18, y: 22}
+        - {x: 18, y: -22}
+      physicsShape:
+      - - {x: -9.999999, y: 22}
+        - {x: -18, y: 9}
+        - {x: -18, y: -14.999999}
+        - {x: -14.999999, y: -22}
+        - {x: 14.999999, y: -22}
+        - {x: 18, y: -18}
+        - {x: 18, y: 7}
+        - {x: 13, y: 22}
+      - - {x: -4, y: -12}
+        - {x: -6, y: -11}
+        - {x: -6, y: -9.999999}
+        - {x: -8, y: -8}
+        - {x: -8, y: -1}
+        - {x: -7, y: 0}
+        - {x: -4.9999995, y: 3}
+        - {x: -4.9999995, y: -7}
+        - {x: -3, y: -9.999999}
+        - {x: 4, y: -12}
+        - {x: -1, y: -13}
+        - {x: -2, y: -12}
+      - - {x: 6, y: -1}
+        - {x: 4.9999995, y: 3}
+        - {x: 9, y: -2}
+        - {x: 9.999999, y: -4}
+        - {x: 9.999999, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aef020298154a039f6440b36fa8f8e2
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 44}
+      - {x: 36, y: 44}
+      - {x: 0, y: 0}
+      - {x: 36, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: border_chosen
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 344
+        height: 398
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 12, z: 13, w: 12}
+      outline:
+      - - {x: -172, y: -199}
+        - {x: -172, y: 199}
+        - {x: 172, y: 199}
+        - {x: 172, y: -199}
+      physicsShape:
+      - - {x: -171.99998, y: 199}
+        - {x: -171.99998, y: -199}
+        - {x: 171.99998, y: -199}
+        - {x: 171.99998, y: 199}
+      - - {x: -157, y: 183.99998}
+        - {x: 157, y: 183.99998}
+        - {x: 157, y: -183.99998}
+        - {x: -157, y: -183.99998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eae477c60e4402ab5b6aa2b692f56d2
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 398}
+      - {x: 344, y: 398}
+      - {x: 0, y: 0}
+      - {x: 344, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: slot
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 529
+        height: 664
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -264.5, y: -332}
+        - {x: -264.5, y: 332}
+        - {x: 264.5, y: 332}
+        - {x: 264.5, y: -332}
+      physicsShape:
+      - - {x: -264.5, y: 332}
+        - {x: -264.5, y: -332}
+        - {x: 264.5, y: -332}
+        - {x: 264.5, y: 332}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46977c72b77a40a48a94577652666728
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 664}
+      - {x: 529, y: 664}
+      - {x: 0, y: 0}
+      - {x: 529, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Slot_buttonunlock_02
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 106
+        width: 324
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -162, y: -52}
+        - {x: -162, y: 52}
+        - {x: 162, y: 52}
+        - {x: 162, y: -52}
+      physicsShape:
+      - - {x: -162, y: 52}
+        - {x: -162, y: -52}
+        - {x: 162, y: -52}
+        - {x: 162, y: 52}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec90e394f4a4177b19e5dc30f9ebd89
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 104}
+      - {x: 324, y: 104}
+      - {x: 0, y: 0}
+      - {x: 324, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Slot_buttonchoice
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 785
+        width: 324
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -162, y: -52}
+        - {x: -162, y: 52}
+        - {x: 162, y: 52}
+        - {x: 162, y: -52}
+      physicsShape:
+      - - {x: -162, y: 52}
+        - {x: -162, y: -52}
+        - {x: 162, y: -52}
+        - {x: 162, y: 52}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f003fe7af1a4f06b01fc707da5f16a9
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 104}
+      - {x: 324, y: 104}
+      - {x: 0, y: 0}
+      - {x: 324, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Slot_buttonunlock_03
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 462
+        width: 324
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -162, y: -52}
+        - {x: -162, y: 52}
+        - {x: 162, y: 52}
+        - {x: 162, y: -52}
+      physicsShape:
+      - - {x: -162, y: 52}
+        - {x: -162, y: -52}
+        - {x: 162, y: -52}
+        - {x: 162, y: 52}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dd2f78c5ae451baf9fb8c8870d3f8a
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 104}
+      - {x: 324, y: 104}
+      - {x: 0, y: 0}
+      - {x: 324, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: tickicon
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 666
+        width: 76
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -28.5}
+        - {x: -38, y: 28.5}
+        - {x: 38, y: 28.5}
+        - {x: 38, y: -28.5}
+      physicsShape:
+      - - {x: -38, y: -5.5}
+        - {x: -12, y: -28.5}
+        - {x: -4, y: -28.5}
+        - {x: 38, y: 9.5}
+        - {x: 38, y: 20.5}
+        - {x: 31, y: 28.5}
+        - {x: -3, y: 28.5}
+        - {x: -38, y: 11.499999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784f3b879a5f4e8b81fb0faff42d8c7f
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 57}
+      - {x: 76, y: 57}
+      - {x: 0, y: 0}
+      - {x: 76, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Video_icon: 21300008
+      border_chosen: 21300024
+      Slot_buttonchoice: 21300030
+      Iconfishdie: 21300012
+      TimerIcon: 21300022
+      Slot_board: 21300018
+      Slot_buttonchose: 21300016
+      homebutton: 21300002
+      Slot_buttonunlock_02a: 21300020
+      lock: 21300004
+      Slot_buttonunlock_01: 21300006
+      slot: 21300026
+      Slot_buttonunlock_02: 21300028
+      Slot_buttonunlock_03: 21300032
+      IconChest: 21300014
+      unlockslot: 21300010
+      noAdlarge: 21300000
+      tickicon: 21300034
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

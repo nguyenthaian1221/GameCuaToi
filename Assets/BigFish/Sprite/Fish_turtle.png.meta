@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: eb38098e2d2f8654498e587f8084ee3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Fish_oan_01_turtle
+  - first:
+      213: 21300002
+    second: Fish_oan_turtle
+  - first:
+      213: 21300004
+    second: Fish_turtle_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 420
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fish_oan_01_turtle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 97
+        height: 96
+      alignment: 9
+      pivot: {x: 0.3618692, y: 0.7216695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: -48}
+        - {x: -48.5, y: 48}
+        - {x: 48.5, y: 48}
+        - {x: 48.5, y: -48}
+      physicsShape:
+      - - {x: 31.5, y: -7.999998}
+        - {x: 27.5, y: 14}
+        - {x: 16.499998, y: 30}
+        - {x: -14.5, y: 42}
+        - {x: -37.5, y: 42}
+        - {x: -40.5, y: 37}
+        - {x: -40.5, y: 24}
+        - {x: -36.5, y: 19}
+        - {x: -35.5, y: -14.999996}
+        - {x: -30.5, y: -24}
+        - {x: -20.5, y: -35}
+        - {x: 9.5, y: -48}
+        - {x: 42.5, y: -48}
+        - {x: 48.5, y: -41}
+        - {x: 48.5, y: -34}
+        - {x: 44.5, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926fb062306448d8a480f5f3009dad28
+      internalID: 21300000
+      vertices:
+      - {x: 13.398689, y: 74.71973}
+      - {x: 110.39869, y: 74.71973}
+      - {x: 13.398689, y: -21.280273}
+      - {x: 110.39869, y: -21.280273}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish_oan_turtle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 183
+        height: 85
+      alignment: 9
+      pivot: {x: 0.75841254, y: 0.96362203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91.5, y: -42.5}
+        - {x: -91.5, y: 42.5}
+        - {x: 91.5, y: 42.5}
+        - {x: 91.5, y: -42.5}
+      physicsShape:
+      - - {x: 91.5, y: 6.5}
+        - {x: 91.5, y: 30.5}
+        - {x: 87.5, y: 39.5}
+        - {x: 69.5, y: 40.5}
+        - {x: 62.5, y: 42.5}
+        - {x: 53.5, y: 42.5}
+        - {x: 35.5, y: 30.5}
+        - {x: 24.500002, y: 11.5}
+        - {x: 20.5, y: -11.5}
+        - {x: 7.5, y: -23.5}
+        - {x: 6.5, y: -28.5}
+        - {x: 6.5, y: -36.5}
+        - {x: 11.5, y: -41.5}
+        - {x: 17.5, y: -42.5}
+        - {x: 35.5, y: -42.5}
+        - {x: 56.5, y: -36.5}
+        - {x: 74.5, y: -26.5}
+        - {x: 88.5, y: -8.5}
+      - - {x: -16.499996, y: 28.5}
+        - {x: -25.5, y: 42.5}
+        - {x: -57.499992, y: 42.5}
+        - {x: -76.5, y: 25.5}
+        - {x: -91.5, y: 15.5}
+        - {x: -91.5, y: 3.5}
+        - {x: -87.5, y: -2.5}
+        - {x: -71.49999, y: -6.499996}
+        - {x: -43.499992, y: -6.499996}
+        - {x: -32.5, y: -0.5}
+        - {x: -23.5, y: 5.5}
+        - {x: -16.499996, y: 19.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df21644e9094f6f9348108269e47475
+      internalID: 21300002
+      vertices:
+      - {x: -47.28949, y: 45.592125}
+      - {x: 135.71051, y: 45.592125}
+      - {x: -47.28949, y: -39.407875}
+      - {x: 135.71051, y: -39.407875}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish_turtle_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 91
+        width: 335
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -167.5, y: -99.5}
+        - {x: -167.5, y: 99.5}
+        - {x: 167.5, y: 99.5}
+        - {x: 167.5, y: -99.5}
+      physicsShape:
+      - - {x: 96.5, y: -85.49999}
+        - {x: 112.5, y: -80.5}
+        - {x: 124.5, y: -72.5}
+        - {x: 136.5, y: -62.5}
+        - {x: 156.5, y: -39.5}
+        - {x: 162.5, y: -31.5}
+        - {x: 166.5, y: -23.5}
+        - {x: 166.5, y: 0.5}
+        - {x: 165.5, y: 9.5}
+        - {x: 162.5, y: 39.5}
+        - {x: 151.5, y: 65.5}
+        - {x: 130.5, y: 86.5}
+        - {x: 108.49999, y: 96.5}
+        - {x: 101.5, y: 99.5}
+        - {x: 64.5, y: 99.5}
+        - {x: 41.5, y: 95.5}
+        - {x: 10.5, y: 83.5}
+        - {x: 4.5, y: 85.49999}
+        - {x: -9.5, y: 87.5}
+        - {x: -45.5, y: 84.5}
+        - {x: -58.499996, y: 79.49999}
+        - {x: -74.5, y: 72.5}
+        - {x: -83.5, y: 66.5}
+        - {x: -100.5, y: 53.499996}
+        - {x: -118.49999, y: 39.5}
+        - {x: -130.5, y: 23.5}
+        - {x: -139.5, y: 9.5}
+        - {x: -147.5, y: -6.5}
+        - {x: -159.49998, y: -13.499999}
+        - {x: -166.5, y: -21.499998}
+        - {x: -166.5, y: -31.5}
+        - {x: -158.49998, y: -43.5}
+        - {x: -150.5, y: -46.5}
+        - {x: -162.5, y: -53.499996}
+        - {x: -167.5, y: -59.499996}
+        - {x: -167.5, y: -65.5}
+        - {x: -162.5, y: -72.5}
+        - {x: -151.5, y: -77.5}
+        - {x: -80.5, y: -96.5}
+        - {x: -59.499996, y: -99.5}
+        - {x: 14.5, y: -99.5}
+        - {x: 30.5, y: -97.5}
+        - {x: 50.5, y: -93.5}
+        - {x: 74.5, y: -88.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a390b92656cb43c8aafa9a748ff96f39
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 199}
+      - {x: 335, y: 199}
+      - {x: 0, y: 0}
+      - {x: 335, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fish_oan_turtle: 21300002
+      Fish_oan_01_turtle: 21300000
+      Fish_turtle_0: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

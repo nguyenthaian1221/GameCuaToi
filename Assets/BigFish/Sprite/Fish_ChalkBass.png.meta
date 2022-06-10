@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: 9037d28142925744eafca9bb7f3ca5d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Fish_body_ChalkBass
+  - first:
+      213: 21300002
+    second: Fish_oan_ChalkBass
+  - first:
+      213: 21300004
+    second: Fish_tail_ChalkBass
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 420
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fish_body_ChalkBass
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 91
+        width: 279
+        height: 285
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -139.5, y: -142.5}
+        - {x: -139.5, y: 142.5}
+        - {x: 139.5, y: 142.5}
+        - {x: 139.5, y: -142.5}
+      physicsShape:
+      - - {x: 116.5, y: -89.5}
+        - {x: 120.49999, y: -68.5}
+        - {x: 130.5, y: -54.5}
+        - {x: 135.5, y: -41.5}
+        - {x: 136.5, y: -32.5}
+        - {x: 136.5, y: -3.5}
+        - {x: 133.49998, y: 11.499999}
+        - {x: 125.5, y: 34.5}
+        - {x: 115.5, y: 50.5}
+        - {x: 107.49999, y: 61.5}
+        - {x: 85.49999, y: 83.5}
+        - {x: 78.5, y: 87.5}
+        - {x: 59.499996, y: 99.5}
+        - {x: 51.5, y: 111.5}
+        - {x: 30.5, y: 130.5}
+        - {x: 24.499998, y: 133.49998}
+        - {x: 16.5, y: 121.49999}
+        - {x: -10.5, y: 134.5}
+        - {x: -20.5, y: 137.5}
+        - {x: -24.499998, y: 137.5}
+        - {x: -28.5, y: 136.5}
+        - {x: -27.5, y: 128.5}
+        - {x: -45.5, y: 134.5}
+        - {x: -51.5, y: 128.5}
+        - {x: -50.5, y: 118.49999}
+        - {x: -73.49999, y: 120.49999}
+        - {x: -76.5, y: 119.49999}
+        - {x: -81.5, y: 113.5}
+        - {x: -82.5, y: 99.5}
+        - {x: -89.5, y: 102.5}
+        - {x: -103.5, y: 99.5}
+        - {x: -103.5, y: 93.5}
+        - {x: -94.5, y: 63.5}
+        - {x: -108.49999, y: 63.5}
+        - {x: -119.49999, y: 60.499996}
+        - {x: -130.5, y: 50.5}
+        - {x: -135.5, y: 44.5}
+        - {x: -135.5, y: 22.5}
+        - {x: -128.5, y: 12.5}
+        - {x: -123.5, y: 7.4999995}
+        - {x: -131.5, y: -25.5}
+        - {x: -119.49999, y: -65.5}
+        - {x: -124.5, y: -72.5}
+        - {x: -128.5, y: -83.5}
+        - {x: -128.5, y: -95.5}
+        - {x: -116.5, y: -112.5}
+        - {x: -97.5, y: -118.49999}
+        - {x: -64.5, y: -115.5}
+        - {x: -44.5, y: -124.5}
+        - {x: -26.499998, y: -131.5}
+        - {x: -4.5, y: -134.5}
+        - {x: 31.5, y: -134.5}
+        - {x: 56.5, y: -129.5}
+        - {x: 64.5, y: -126.5}
+        - {x: 85.49999, y: -114.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1825bb7bc3b544bbbe8739ef76c2035c
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 285}
+      - {x: 279, y: 285}
+      - {x: 0, y: 0}
+      - {x: 279, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish_oan_ChalkBass
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 15
+        width: 116
+        height: 56
+      alignment: 9
+      pivot: {x: 0.22209722, y: 1.4240783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: -28}
+        - {x: -58, y: 28}
+        - {x: 58, y: 28}
+        - {x: 58, y: -28}
+      physicsShape:
+      - - {x: 48, y: -4}
+        - {x: 54, y: 14}
+        - {x: 54, y: 19}
+        - {x: 48.999992, y: 22.000002}
+        - {x: 33, y: 24}
+        - {x: 31, y: 24}
+        - {x: 8, y: 21.000002}
+        - {x: -15, y: 24}
+        - {x: -21, y: 24}
+        - {x: -32, y: 17}
+        - {x: -56, y: -5}
+        - {x: -56, y: -20}
+        - {x: -54, y: -24}
+        - {x: -42, y: -26}
+        - {x: 3, y: -26}
+        - {x: 8.999996, y: -25}
+        - {x: 21, y: -25}
+        - {x: 43, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074d32fe6a5640609e0b973ff3d3e82b
+      internalID: 21300002
+      vertices:
+      - {x: 32.236725, y: 4.25161}
+      - {x: 148.23672, y: 4.25161}
+      - {x: 32.236725, y: -51.74839}
+      - {x: 148.23672, y: -51.74839}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish_tail_ChalkBass
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 251
+        width: 110
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7544999, y: 0.49999958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: -73.5}
+        - {x: -55, y: 73.5}
+        - {x: 55, y: 73.5}
+        - {x: 55, y: -73.5}
+      physicsShape:
+      - - {x: 52, y: 3.5}
+        - {x: 52, y: 10.5}
+        - {x: 44, y: 24.5}
+        - {x: 26, y: 42.5}
+        - {x: 11, y: 53.5}
+        - {x: -4, y: 60.5}
+        - {x: -22, y: 67.5}
+        - {x: -47, y: 67.5}
+        - {x: -50, y: 63.499996}
+        - {x: -50, y: 42.5}
+        - {x: -44.999992, y: 30.5}
+        - {x: -35, y: 8.5}
+        - {x: -33, y: -6.4999995}
+        - {x: -40, y: -23.5}
+        - {x: -36, y: -62.5}
+        - {x: -31.999996, y: -65.5}
+        - {x: -30.999996, y: -66.5}
+        - {x: -22, y: -66.5}
+        - {x: 20, y: -44.499996}
+        - {x: 37, y: -27.5}
+        - {x: 51, y: -5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfef995f1d5749ecbf78062b296e6502
+      internalID: 21300004
+      vertices:
+      - {x: -27.994987, y: 147.00006}
+      - {x: 82.00501, y: 147.00006}
+      - {x: -27.994987, y: 0.000061035156}
+      - {x: 82.00501, y: 0.000061035156}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fish_oan_ChalkBass: 21300002
+      Fish_tail_ChalkBass: 21300004
+      Fish_body_ChalkBass: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

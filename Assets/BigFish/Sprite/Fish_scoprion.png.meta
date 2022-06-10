@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: aee1656fc09933a4e8902d909ade5aa9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Fish_oar_scoprion
+  - first:
+      213: 21300002
+    second: Fish_tail_scoprion
+  - first:
+      213: 21300004
+    second: Fish_body_scoprion
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 420
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fish_oar_scoprion
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 186
+        height: 84
+      alignment: 9
+      pivot: {x: 0.3884604, y: 1.2512324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -42.000008}
+        - {x: -93, y: 42}
+        - {x: 93, y: 42}
+        - {x: 93, y: -42.000008}
+      physicsShape:
+      - - {x: 88.99999, y: 23}
+        - {x: 82, y: 34}
+        - {x: 60, y: 39}
+        - {x: 52, y: 39}
+        - {x: 44, y: 37}
+        - {x: 20, y: 26}
+        - {x: 10.999998, y: 15}
+        - {x: -8, y: 29}
+        - {x: -24, y: 37}
+        - {x: -34, y: 39}
+        - {x: -56, y: 39}
+        - {x: -67, y: 31}
+        - {x: -88, y: 1}
+        - {x: -88, y: -13}
+        - {x: -77, y: -23}
+        - {x: -54, y: -31}
+        - {x: -27, y: -32}
+        - {x: -7.000001, y: -28}
+        - {x: 0.9999981, y: -24}
+        - {x: 12, y: -15}
+        - {x: 14, y: -36}
+        - {x: 19, y: -38.999992}
+        - {x: 38, y: -38.999992}
+        - {x: 63, y: -28}
+        - {x: 84, y: -5}
+        - {x: 88.99999, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7675c170bcc24bdd90a99be293e29dce
+      internalID: 21300000
+      vertices:
+      - {x: 20.746368, y: 20.896477}
+      - {x: 206.74637, y: 20.896477}
+      - {x: 20.746368, y: -63.10353}
+      - {x: 206.74637, y: -63.10353}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish_tail_scoprion
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 261
+        width: 99
+        height: 138
+      alignment: 9
+      pivot: {x: 0.6920958, y: 0.64407283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: -69}
+        - {x: -49.5, y: 69}
+        - {x: 49.5, y: 69}
+        - {x: 49.5, y: -69}
+      physicsShape:
+      - - {x: 45.5, y: 12}
+        - {x: 42.5, y: 29}
+        - {x: 23.5, y: 45}
+        - {x: -0.5, y: 62}
+        - {x: -9.499998, y: 68}
+        - {x: -22.499996, y: 68}
+        - {x: -28.499996, y: 67}
+        - {x: -31.5, y: 63}
+        - {x: -32.5, y: 35}
+        - {x: -46.5, y: 27}
+        - {x: -46.5, y: 4}
+        - {x: -30.5, y: -8.999998}
+        - {x: -40.5, y: -24.999996}
+        - {x: -34.5, y: -42}
+        - {x: -13.5, y: -62}
+        - {x: -10.5, y: -66}
+        - {x: -0.5, y: -66}
+        - {x: 17.5, y: -51.999992}
+        - {x: 38.5, y: -27.999996}
+        - {x: 45.5, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae2a273fe0542e4afa44aa693bbee96
+      internalID: 21300002
+      vertices:
+      - {x: -19.017487, y: 118.11795}
+      - {x: 79.98251, y: 118.11795}
+      - {x: -19.017487, y: -19.88205}
+      - {x: 79.98251, y: -19.88205}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish_body_scoprion
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 98
+        width: 290
+        height: 312
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -145, y: -156}
+        - {x: -145, y: 156}
+        - {x: 145, y: 156}
+        - {x: 145, y: -156}
+      physicsShape:
+      - - {x: 103, y: -128}
+        - {x: 111, y: -122}
+        - {x: 128, y: -104}
+        - {x: 143, y: -71}
+        - {x: 144, y: -64}
+        - {x: 144, y: -44}
+        - {x: 143, y: -36}
+        - {x: 139, y: -17}
+        - {x: 135, y: -3}
+        - {x: 120.99999, y: 19.999998}
+        - {x: 101, y: 41}
+        - {x: 96, y: 45}
+        - {x: 87, y: 50}
+        - {x: 91, y: 57}
+        - {x: 94, y: 66.99999}
+        - {x: 98.99999, y: 95}
+        - {x: 97.99999, y: 107.99999}
+        - {x: 91.99999, y: 112}
+        - {x: 85, y: 113}
+        - {x: 77, y: 107.99999}
+        - {x: 63, y: 96}
+        - {x: 52.999996, y: 93}
+        - {x: 36, y: 115}
+        - {x: 28, y: 127}
+        - {x: 7, y: 148}
+        - {x: -4.9999995, y: 154}
+        - {x: -12, y: 154}
+        - {x: -17, y: 149}
+        - {x: -17, y: 133}
+        - {x: -14, y: 109}
+        - {x: -52, y: 130}
+        - {x: -66.99999, y: 135}
+        - {x: -79, y: 135}
+        - {x: -84, y: 131}
+        - {x: -84, y: 125}
+        - {x: -81, y: 118.99999}
+        - {x: -59.999996, y: 97.99999}
+        - {x: -56, y: 88}
+        - {x: -66, y: 81}
+        - {x: -74, y: 82}
+        - {x: -96, y: 90}
+        - {x: -115, y: 93}
+        - {x: -139, y: 91.99999}
+        - {x: -143, y: 88}
+        - {x: -143, y: 83}
+        - {x: -141, y: 77}
+        - {x: -133.99998, y: 71}
+        - {x: -109, y: 57}
+        - {x: -104.99999, y: 48.999996}
+        - {x: -117.99999, y: 42.999996}
+        - {x: -136, y: 29.999998}
+        - {x: -137, y: 21}
+        - {x: -132, y: 14.999999}
+        - {x: -119.99999, y: 11}
+        - {x: -96, y: 9}
+        - {x: -100, y: 3}
+        - {x: -110, y: -14.999999}
+        - {x: -116, y: -36}
+        - {x: -116.99999, y: -52.999996}
+        - {x: -113, y: -68}
+        - {x: -102, y: -87}
+        - {x: -93, y: -97}
+        - {x: -71, y: -118.99999}
+        - {x: -50, y: -133}
+        - {x: -26.999998, y: -145.99998}
+        - {x: -4.9999995, y: -153}
+        - {x: 4.9999995, y: -155}
+        - {x: 32, y: -155}
+        - {x: 48, y: -152}
+        - {x: 69, y: -145.99998}
+        - {x: 85, y: -139}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d736c665064699bbc6c2dc3b82c296
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 312}
+      - {x: 290, y: 312}
+      - {x: 0, y: 0}
+      - {x: 290, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fish_body_scoprion: 21300004
+      Fish_oar_scoprion: 21300000
+      Fish_tail_scoprion: 21300002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

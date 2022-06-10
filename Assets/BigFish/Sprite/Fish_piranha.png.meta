@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 92f6135c34e1b3248a8bc1e0c4e39de5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Fish_body_piranha
+  - first:
+      213: 21300002
+    second: Fish__oan_piranha
+  - first:
+      213: 21300004
+    second: Fish_tail_piranha
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 420
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fish_body_piranha
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 62
+        width: 271
+        height: 261
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -135.5, y: -130.5}
+        - {x: -135.5, y: 130.5}
+        - {x: 135.5, y: 130.5}
+        - {x: 135.5, y: -130.5}
+      physicsShape:
+      - - {x: 92.49999, y: -105.49999}
+        - {x: 110.5, y: -89.5}
+        - {x: 120.49999, y: -78.5}
+        - {x: 130.5, y: -59.499996}
+        - {x: 134.5, y: -44.5}
+        - {x: 135.5, y: -39.5}
+        - {x: 135.5, y: -11.499999}
+        - {x: 129.5, y: -5.5}
+        - {x: 123.5, y: -4.5}
+        - {x: 115.5, y: -10.5}
+        - {x: 103.5, y: -32.5}
+        - {x: 101.5, y: -21.499998}
+        - {x: 105.49999, y: -15.5}
+        - {x: 112.5, y: -10.5}
+        - {x: 117.49999, y: 1.5}
+        - {x: 118.49999, y: 24.499998}
+        - {x: 113.5, y: 44.5}
+        - {x: 103.5, y: 61.5}
+        - {x: 97.5, y: 69.5}
+        - {x: 78.5, y: 87.5}
+        - {x: 68.5, y: 94.5}
+        - {x: 41.5, y: 108.49999}
+        - {x: 17.5, y: 113.5}
+        - {x: 10.5, y: 114.5}
+        - {x: -14.5, y: 114.5}
+        - {x: -24.499998, y: 122.5}
+        - {x: -44.5, y: 130.5}
+        - {x: -68.5, y: 130.5}
+        - {x: -83.5, y: 127.5}
+        - {x: -91.5, y: 125.5}
+        - {x: -103.5, y: 121.49999}
+        - {x: -111.5, y: 117.49999}
+        - {x: -118.49999, y: 112.5}
+        - {x: -115.5, y: 102.5}
+        - {x: -97.5, y: 91.5}
+        - {x: -95.5, y: 74.5}
+        - {x: -106.49999, y: 61.5}
+        - {x: -115.5, y: 45.5}
+        - {x: -124.5, y: 24.499998}
+        - {x: -128.5, y: 14.5}
+        - {x: -133.49998, y: -7.4999995}
+        - {x: -134.5, y: -15.5}
+        - {x: -134.5, y: -31.5}
+        - {x: -130.5, y: -40.5}
+        - {x: -128.5, y: -45.5}
+        - {x: -120.49999, y: -61.5}
+        - {x: -125.5, y: -69.5}
+        - {x: -125.5, y: -74.5}
+        - {x: -106.49999, y: -99.5}
+        - {x: -100.5, y: -113.5}
+        - {x: -92.49999, y: -124.5}
+        - {x: -85.49999, y: -125.5}
+        - {x: -64.5, y: -115.5}
+        - {x: -44.5, y: -124.5}
+        - {x: -14.5, y: -130.5}
+        - {x: 29.499998, y: -130.5}
+        - {x: 40.5, y: -129.5}
+        - {x: 52.499996, y: -126.5}
+        - {x: 78.5, y: -114.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380f9652b0cd4e8f8de70f762e2757b2
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 261}
+      - {x: 271, y: 261}
+      - {x: 0, y: 0}
+      - {x: 271, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish__oan_piranha
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 119
+        height: 96
+      alignment: 9
+      pivot: {x: 0.29621768, y: 0.912436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.5, y: -48}
+        - {x: -59.5, y: 48}
+        - {x: 59.499996, y: 48}
+        - {x: 59.499996, y: -48}
+      physicsShape:
+      - - {x: 58.499996, y: -20}
+        - {x: 58.499996, y: -2}
+        - {x: 33.5, y: 22}
+        - {x: 24.5, y: 28}
+        - {x: 13.5, y: 28}
+        - {x: 1.5, y: 20.000002}
+        - {x: -20.5, y: 23}
+        - {x: -30.5, y: 11}
+        - {x: -48.5, y: -7}
+        - {x: -50.5, y: -15}
+        - {x: -50.5, y: -20}
+        - {x: -39.5, y: -32}
+        - {x: -17.5, y: -44}
+        - {x: -3.5, y: -44}
+        - {x: 3.5, y: -34}
+        - {x: 22.5, y: -36}
+        - {x: 50.499996, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc45575cbed41c68e5bf544ecdd7b20
+      internalID: 21300002
+      vertices:
+      - {x: 24.250095, y: 56.406143}
+      - {x: 143.25009, y: 56.406143}
+      - {x: 24.250095, y: -39.593857}
+      - {x: 143.25009, y: -39.593857}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish_tail_piranha
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 71
+        height: 102
+      alignment: 9
+      pivot: {x: 0.94549304, y: 0.48930657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: -51}
+        - {x: -35.5, y: 51}
+        - {x: 35.5, y: 51}
+        - {x: 35.5, y: -51}
+      physicsShape:
+      - - {x: 10.5, y: 42}
+        - {x: -13.499996, y: 51}
+        - {x: -35.5, y: 51}
+        - {x: -35.5, y: 41}
+        - {x: -33.5, y: 33.999996}
+        - {x: -11.5, y: -12}
+        - {x: -30.5, y: -43}
+        - {x: -29.5, y: -47}
+        - {x: -27.499996, y: -51}
+        - {x: -2.5, y: -51}
+        - {x: 35.5, y: -18}
+        - {x: 35.5, y: 9}
+        - {x: 33.5, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d92964c687445b68beeb6a6d03c5792
+      internalID: 21300004
+      vertices:
+      - {x: -31.630005, y: 103.09073}
+      - {x: 39.369995, y: 103.09073}
+      - {x: -31.630005, y: 1.0907288}
+      - {x: 39.369995, y: 1.0907288}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fish__oan_piranha: 21300002
+      Fish_body_piranha: 21300000
+      Fish_tail_piranha: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

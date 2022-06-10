@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: d0f13f38f849ba04ebd6b1d39e17b50f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Fish_body_Damsel
+  - first:
+      213: 21300002
+    second: Fish_oan_Damsel
+  - first:
+      213: 21300004
+    second: Fish_tail_Damsel
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 420
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fish_body_Damsel
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 107
+        width: 287
+        height: 283
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -143.5, y: -141.5}
+        - {x: -143.5, y: 141.5}
+        - {x: 143.5, y: 141.5}
+        - {x: 143.5, y: -141.5}
+      physicsShape:
+      - - {x: 28.5, y: -128.5}
+        - {x: 54.5, y: -125.5}
+        - {x: 71.5, y: -120.49999}
+        - {x: 89.5, y: -109.5}
+        - {x: 110.5, y: -93.5}
+        - {x: 114.5, y: -86.5}
+        - {x: 113.5, y: -77.5}
+        - {x: 108.49999, y: -73.49999}
+        - {x: 84.5, y: -52.499996}
+        - {x: 114.5, y: -50.5}
+        - {x: 127.5, y: -47.5}
+        - {x: 138.5, y: -33.499996}
+        - {x: 138.5, y: 1.5}
+        - {x: 130.5, y: 28.5}
+        - {x: 120.49999, y: 45.5}
+        - {x: 110.5, y: 58.499996}
+        - {x: 93.5, y: 76.5}
+        - {x: 79.49999, y: 86.5}
+        - {x: 62.5, y: 94.5}
+        - {x: 54.5, y: 97.5}
+        - {x: 47.5, y: 99.5}
+        - {x: 26.499998, y: 110.5}
+        - {x: 0.5, y: 120.49999}
+        - {x: -15.5, y: 122.5}
+        - {x: -44.5, y: 122.5}
+        - {x: -68.5, y: 117.49999}
+        - {x: -80.5, y: 109.5}
+        - {x: -90.5, y: 99.5}
+        - {x: -103.5, y: 77.5}
+        - {x: -106.49999, y: 37.5}
+        - {x: -111.5, y: 25.5}
+        - {x: -118.49999, y: -5.5}
+        - {x: -118.49999, y: -28.5}
+        - {x: -114.5, y: -49.499996}
+        - {x: -110.5, y: -61.5}
+        - {x: -97.5, y: -84.5}
+        - {x: -87.5, y: -93.5}
+        - {x: -107.49999, y: -102.5}
+        - {x: -121.49999, y: -105.49999}
+        - {x: -126.5, y: -109.5}
+        - {x: -126.5, y: -113.5}
+        - {x: -119.49999, y: -122.5}
+        - {x: -104.49999, y: -128.5}
+        - {x: -58.499996, y: -128.5}
+        - {x: -37.5, y: -124.5}
+        - {x: -18.5, y: -128.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da27ba328924756a3d57c3acfd00eab
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 283}
+      - {x: 287, y: 283}
+      - {x: 0, y: 0}
+      - {x: 287, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish_oan_Damsel
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 89
+        height: 74
+      alignment: 9
+      pivot: {x: -0.02425165, y: 1.1075909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: -37}
+        - {x: -44.5, y: 37}
+        - {x: 44.500004, y: 37}
+        - {x: 44.500004, y: -37}
+      physicsShape:
+      - - {x: 38.500004, y: 10}
+        - {x: 25.500004, y: 25}
+        - {x: 13.499996, y: 30}
+        - {x: 5.5, y: 30}
+        - {x: -14.500004, y: 29}
+        - {x: -27.5, y: 16}
+        - {x: -32.5, y: 6}
+        - {x: -32.5, y: -17.999996}
+        - {x: -22.5, y: -32}
+        - {x: -12.5, y: -35}
+        - {x: 6.5, y: -35}
+        - {x: 31.500004, y: -23}
+        - {x: 38.500004, y: -10.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823e4fd3a1e54e2b9e25c996124da650
+      internalID: 21300002
+      vertices:
+      - {x: 46.658398, y: 29.038269}
+      - {x: 135.6584, y: 29.038269}
+      - {x: 46.658398, y: -44.96173}
+      - {x: 135.6584, y: -44.96173}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Fish_tail_Damsel
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 282
+        width: 99
+        height: 125
+      alignment: 9
+      pivot: {x: 0.6713806, y: 0.4592793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: -62.5}
+        - {x: -49.5, y: 62.5}
+        - {x: 49.5, y: 62.5}
+        - {x: 49.5, y: -62.5}
+      physicsShape:
+      - - {x: 46.5, y: 9.5}
+        - {x: 31.5, y: 33.5}
+        - {x: 14.5, y: 48.5}
+        - {x: 1.5, y: 58.499996}
+        - {x: -6.5, y: 59.5}
+        - {x: -31.5, y: 59.5}
+        - {x: -34.5, y: 57.5}
+        - {x: -44.5, y: 46.499996}
+        - {x: -44.5, y: 23.499998}
+        - {x: -43.499996, y: 17.5}
+        - {x: -34.5, y: 0.5}
+        - {x: -37.499996, y: -21.5}
+        - {x: -37.499996, y: -37.5}
+        - {x: -36.499996, y: -41.5}
+        - {x: -31.5, y: -49.499996}
+        - {x: -21.5, y: -54.5}
+        - {x: -0.5, y: -54.5}
+        - {x: 14.5, y: -48.5}
+        - {x: 33.5, y: -33.5}
+        - {x: 46.5, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cae202fd2545c1b743d40806d9f9cf
+      internalID: 21300004
+      vertices:
+      - {x: -16.966675, y: 130.09009}
+      - {x: 82.033325, y: 130.09009}
+      - {x: -16.966675, y: 5.090088}
+      - {x: 82.033325, y: 5.090088}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fish_oan_Damsel: 21300002
+      Fish_body_Damsel: 21300000
+      Fish_tail_Damsel: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
